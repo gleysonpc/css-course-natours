@@ -7,7 +7,7 @@
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "devDependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "global": "^4.4.0"
